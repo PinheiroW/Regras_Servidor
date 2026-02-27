@@ -1,0 +1,6 @@
+🍶 Regras de Destilaria 🍶
+
+---
+
+1️⃣ Limite de Destilarias
+🚫 É proibido ter mais de 1 destilaria por base.

@@ -1,0 +1,21 @@
+⛔️ Regras sobre Bugs ⛔️
+
+---
+
+1️⃣ Proibição de Explorar Bugs
+
+⛔ É estritamente proibido utilizar qualquer bug encontrado no servidor para benefício próprio ou para prejudicar o servidor.
+⚠️ Penalidade: Jogadores flagrados utilizando bugs serão banidos permanentemente.
+
+---
+
+2️⃣ Comunicação de Bugs
+
+📜 Caso encontre qualquer tipo de bug no servidor, abra um ticket e nos informe.
+💡 Sua contribuição será de grande ajuda para manter o servidor funcionando corretamente!
+
+---
+
+3️⃣ Ressarcimento de Bug
+
+⚠️  No dayz é muito comum acontecer bugs que não estão no controle do servidor, e infelizmente não tem como o servidor ter acesso aos itens exato que o jogador tinha. Então sempre que der algum b.o com o jogador, e for muitos itens será dropado os itens raros que o jogador lembra que tinha e uma quantia simbólica para ajudar no prejuízo, não será dropado todos os itens que o jogador perdeu tenham em mente que não tem como ser devolvido item por item.

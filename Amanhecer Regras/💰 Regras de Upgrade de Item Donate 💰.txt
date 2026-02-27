@@ -1,0 +1,29 @@
+💰 Regras de Upgrade de Item Donate 💰
+
+---
+
+1️⃣ Possibilidade de Upgrade
+🔧 Você pode fazer um upgrade de qualquer item donate (como mochila, arma, camo net, veículos, etc.) a qualquer momento. No entanto, é importante observar alguns pontos:
+
+---
+
+2️⃣ Data de Compra e Validade
+🗓️ A data de compra do primeiro item será mantida, inclusive para o cálculo da validade do item, caso o item tenha um período de 90 dias.
+
+Exemplo:
+Se você comprar um item no dia 01/11/24 e, em 23/11/24, fizer um upgrade para um item diferente, a data de validade do novo item será a data de compra do primeiro item (01/11/24), e não a data do upgrade (23/11/24).
+
+---
+
+3️⃣ Impacto no Wipe
+💥 Se ocorrer um wipe, o servidor fará a validação da validade do item com base na data inicial de compra. Ou seja, o item será considerado válido até o prazo que começou com a compra inicial, independentemente do upgrade.
+
+---
+
+4️⃣ Quantidade limite de upgrade
+🔄  É permitido fazer upgrade de seus itens donates apenas UMA única vez, se após um WIPE você querer fazer upgrade de seus itens novamente ou retornar para oque tinha antes, isso não será possível.
+
+---
+
+5️⃣ Como fazer upgrade
+🔄 Todo upgrade deve ser feito via ticket com um administrador, para ser anotado os itens que serão feito upgrade, o player não pode simplesmente ir no site pegar vários itens, e usar os coins que tem em conta de um seguro ou algo do tipo para pegar outro item.

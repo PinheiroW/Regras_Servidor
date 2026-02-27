@@ -1,0 +1,18 @@
+🌱 Regras de Plantação 🌱
+
+---
+
+1️⃣ Limite de Greenhouses e Gardenplots
+⚠️ É proibido ter mais de 3 greenhouses , 6 gardenplots ou 18 PlanterBox.
+
+---
+
+2️⃣ Restrições de Plantação em Safezones e pelo Mapa
+🚫 É proibido fazer qualquer tipo de plantação nas safezones ou espalhadas pelo mapa.
+📜 Caso precise fazer uma plantação fora de sua base, plante e depois que colher, remova o gardenplot.
+
+---
+
+3️⃣ Cuidados com o Tempo e Desconexões
+⚠️ Não plante algo perto do restart, pois o servidor pode restartar e sumir seus itens plantados.
+❗ Evite deixar itens plantados e deslogar do servidor, pois isso fará com que os itens estraguem e desapareçam.

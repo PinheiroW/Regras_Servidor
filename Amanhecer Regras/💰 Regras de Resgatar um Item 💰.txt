@@ -1,0 +1,16 @@
+💰 Regras de Resgatar um Item 💰
+
+---
+
+1️⃣ Resgate de Item Específico
+🛒 Se você comprou um item no site, por exemplo, uma mochila que custa R$ 50,00, quando for resgatar no jogo, você deve resgatar exatamente esse item. Você pode apenas escolher a variante de modelo e cor do item.
+
+---
+
+2️⃣ Liberação Automática do Item
+🔑 Ao comprar o item no site, a liberação do item é feita automaticamente pelo sistema, permitindo que você consiga usá-lo no jogo.
+
+---
+
+3️⃣ Troca de Itens
+❌ Se você tentar trocar o item adquirido, por exemplo, ao invés de resgatar a mochila, você resgatar um camo net poncho, você não conseguirá usar o item. Isso ocorre porque a liberação foi feita para o item específico que você comprou, e não para o novo item escolhido.

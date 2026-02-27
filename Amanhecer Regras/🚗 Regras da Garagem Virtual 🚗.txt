@@ -1,0 +1,11 @@
+🚗 Regras da Garagem Virtual 🚗
+
+---
+
+1️⃣ Limite de Totens de Garagem:
+Cada base pode possuir, no máximo, 2 totens de garagem.
+
+---
+
+2️⃣ Organização das garagem nas Traders:
+Não deixe itens no chão ou veículos na área de spawn da garagem nas traders.

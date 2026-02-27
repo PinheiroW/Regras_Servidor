@@ -1,0 +1,12 @@
+🚗 Regras de seguro para Veículos 🚗
+
+---
+
+1️⃣ Como pedir seguro:
+Caso precise de seguro do seu veiculo donate ou trader por qualquer motivo, basta abrir o painel de seguro e acionar e depois recuperar seu veiculo, caso ele não apareça no seguro você deve abrir um ticket.
+
+2️⃣ Loot sem seguro
+O loot do veiculo não terá seguro, ao acionar o seguro o loot de dentro do veiculo será deletado.
+
+3️⃣ Seguro somente pro dono
+O seguro só podera ser acionado pelo dono do veiculo, quem comprou ele na loja.
